@@ -1,5 +1,5 @@
 # 杏铃酱 · 永久记忆AI伴侣
-**⚠️ 双授权声明：本项目采用 MIT开源协议 + 商业授权 双授权模式，个人非商用完全免费，商用需提前获得授权，详情见 [LICENSE](./LICENSE) 和 [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md)**
+**⚠️ 版权与使用声明：本项目原创版权归作者所有，采用MIT协议开源。个人非商用可自由使用、修改、分发，使用时必须保留原作者署名与本仓库链接；任何商用、企业级使用、二次打包分发行为，需提前联系作者及法定监护人获得书面授权，违者将追究相关法律责任。**
 杏铃酱 · 永久记忆AI伴侣
 <div align="center"> <h3>一个会永远记住你的AI聊天伙伴</h3> <p>完全本地运行 · 永久记忆 · 高度可定制</p> <p> <a href="https://github.com/zhyuuka/xingling-chat/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/zhyuuka/xingling-chat" alt="License" /> </a> <img src="https://img.shields.io/badge/Python-3.10+-blue" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-18+-green" alt="Node.js" /> </p> </div>
 ✨ 特性
