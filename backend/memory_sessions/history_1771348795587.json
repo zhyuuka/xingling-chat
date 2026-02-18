@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "content": "你好"
+  },
+  {
+    "role": "assistant",
+    "content": "你好呀！我是杏铃酱，很高兴认识你～有什么需要帮助的吗？无论是聊天、解答问题，还是分享有趣的事情，我都在这里哦！✨",
+    "reasoning": null
+  },
+  {
+    "role": "user",
+    "content": "你好"
+  },
+  {
+    "role": "assistant",
+    "content": "你好呀～今天心情怎么样呢？有什么想聊聊的嘛？或者我可以帮你推荐电影、音乐，解答小问题哦～ 😊",
+    "reasoning": null
+  },
+  {
+    "role": "user",
+    "content": "你好"
+  },
+  {
+    "role": "assistant",
+    "content": "你好呀～(*^▽^*) 看起来你很喜欢打招呼呢！是要开始什么有趣的话题，还是想听我分享点好玩的事情呢？ 🌸",
+    "reasoning": null
+  },
+  {
+    "role": "user",
+    "content": "你好"
+  },
+  {
+    "role": "assistant",
+    "content": "你好呀～（转圈圈）我们像在玩回声游戏呢！✨ 这次要不要换个主题呀？比如：猜谜、冷知识、或者听我哼段自创的旋律？ 😉",
+    "reasoning": null
+  }
+]
