@@ -1,3 +1,6 @@
+# 杏铃酱 xingling-chat 核心代码
+# Copyright (c) 2026 你的昵称/署名
+# 开源协议：MIT License，使用需保留原作者署名，商用需获得授权
 import json
 import os
 import sys
