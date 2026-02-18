@@ -1,5 +1,5 @@
 # 杏铃酱 xingling-chat 核心代码
-# Copyright (c) 2026 你的昵称/署名
+# Copyright (c) 2026 zhyuuka
 # 开源协议：MIT License，使用需保留原作者署名，商用需获得授权
 
 "use client";
