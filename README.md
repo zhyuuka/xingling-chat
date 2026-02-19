@@ -53,6 +53,8 @@ python -m venv venv
 venv\Scripts\activate
 # Linux/Mac:
 source venv/bin/activate
+andriod(移植）
+还在开发.....
 
 # 安装依赖
 pip install fastapi uvicorn openai requests PyPDF2 python-docx
