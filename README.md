@@ -33,7 +33,22 @@
 
 AI 模型：兼容 OpenAI 接口（默认 DeepSeek）
 
-🚀 快速开始
+🚀 快速开始(不想动手的人可以看看releases里的一键启动包）
+
+Topics
+python ai memory nextjs openai aichat llm deepseek ai-companion
+Resources
+ Readme
+License
+ View license
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases 
 环境要求
 Python 3.10 或更高版本
 
