@@ -33,7 +33,8 @@
 
 AI 模型：兼容 OpenAI 接口（默认 DeepSeek）
 
-🚀 快速开始(不想动手的人可以看看releases里的一键启动包）
+# 🚀 快速开始
+# (不想动手的人可以看看releases里的一键启动包）
 
 Topics
 python ai memory nextjs openai aichat llm deepseek ai-companion
