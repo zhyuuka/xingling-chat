@@ -53,7 +53,7 @@ python -m venv venv
 venv\Scripts\activate
 # Linux/Mac:
 source venv/bin/activate
-andriod(移植）
+# andriod(移植）
 还在开发.....
 
 # 安装依赖
